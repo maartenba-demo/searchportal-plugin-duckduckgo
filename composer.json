@@ -10,6 +10,9 @@
         }
     ],
     "type": "searchportal-plugin",
+    "extra": {
+        "class": "SearchPortal\\Plugins\\DuckDuckGoSearchEnginePlugin"
+    },
     "require": {
         "maartenballiauw/searchportal-plugin-installers": "dev-master"
     }
