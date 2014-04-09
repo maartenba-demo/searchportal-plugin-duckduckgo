@@ -1,7 +1,7 @@
 {
     "name": "maartenballiauw/searchportal-plugin-duckduckgo",
     "description": "Plugin for DuckDuckGo search engine.",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "license": "Apache-2",
     "authors": [
         {
