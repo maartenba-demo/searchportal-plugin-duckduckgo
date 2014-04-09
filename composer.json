@@ -1,0 +1,16 @@
+{
+    "name": "maartenballiauw/searchportal-plugin-duckduckgo",
+    "description": "Plugin for DuckDuckGo search engine.",
+    "minimum-stability": "stable",
+    "license": "Apache-2",
+    "authors": [
+        {
+            "name": "Maarten Balliauw",
+            "email": "maarten.balliauw@jetbrains.com"
+        }
+    ],
+    "type": "searchportal-plugin",
+    "require": {
+        "maartenballiauw/searchportal-plugin-installers": "dev-master"
+    }
+}
